@@ -4,10 +4,10 @@ A (R)aspberry (P)i (model 4B, mainly) (O)peration (S)ystem (T)rainwreck experime
 to learn more about the Rust lang, bare-metal programming and (obviously) 
 operating systems design and architecture.
 
-The code follows the code presented [rust-embedded's Raspberry Pi OS tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/tree/master),
-but maybe it will evolve beyond the tutorial's scope and grow a personality and such.
-If that happens, it will be probably a good idea to rebrand this very tasteful
-project name.
+The code follows the structure presented [rust-embedded's Raspberry Pi OS tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials/tree/master),
+but it may evolve beyond the tutorial's scope and grow a personality and such.
+If that happens, it will probably be a good idea to rebrand this very tastefully
+named project.
 
 ## References
 
